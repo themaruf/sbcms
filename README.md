@@ -1,4 +1,4 @@
-# SBCMS Project
+# SBCMS: subscription-based content management system
 
 A RESTful API for a subscription-based content platform that allows users to access articles based on their subscription plan. The system handles authentication, access control, caching, and performance optimization.
 
